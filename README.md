@@ -1,6 +1,6 @@
 # DS-shadcn
 
-Registry de componentes do **DS COA** (Agilize Design System), distribuída no padrão [shadcn/ui](https://ui.shadcn.com). Os componentes usam os tokens do tema `coa-theme` (style `radix-luma`, base `neutral`) e podem ser instalados diretamente em qualquer projeto shadcn a partir deste repositório.
+Registry de componentes **DS-shadcn**, distribuída no padrão [shadcn/ui](https://ui.shadcn.com). Os componentes usam os tokens do tema `pinatls-theme` (style `radix-luma`, base `neutral`) e podem ser instalados diretamente em qualquer projeto shadcn a partir deste repositório.
 
 - **Registry:** `ds-shadcn`
 - **Homepage:** https://github.com/pinatls-stack/DS-shadcn
